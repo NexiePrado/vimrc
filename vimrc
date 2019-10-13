@@ -16,6 +16,7 @@ set fileencodings=utf-8
 
 set ruler
 set number
+set exrc
 
 let g:airline_theme = 'gruvbox'
 let g:ackprg = 'ag --vimgrep'
